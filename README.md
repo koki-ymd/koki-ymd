@@ -6,8 +6,8 @@
 
 ## 🚀 Main Portfolio
 
-### 🔹 Stock Viewer Web App
-株価を検索・可視化できる Web アプリケーション
+### 🔹 Stock Viewer Web App - 株価を検索・可視化できる Web アプリケーション
+
 https://github.com/koki-ymd/stock-viewer
 
 ### 🐞 UnrealEngineでAdmobを使う際に出るバグの対応

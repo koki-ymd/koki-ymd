@@ -10,7 +10,7 @@
 
 https://github.com/koki-ymd/stock-viewer
 
-### 🐞 UnrealEngineでAdmobを使う際に出るバグの対応
+### 🐞 UnrealEngineでAdmobを使う際に出る不具合の対応
 https://github.com/koki-ymd/AndroidAdvertisingInUE5
 
 
